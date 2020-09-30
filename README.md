@@ -1,6 +1,6 @@
 # ICN-DORKER
 Mass Website List Grabber From Dork
-
+### This tool will help you to get te mass list of website for your use. And not mass websites but also provide valid sites that can be used.
 
 installation command
 
